@@ -1,5 +1,12 @@
 export const video = [
     {
+        "pic": "//i2.hdslb.com/bfs/archive/296712ad1b15ab1528c168ad9b6e9baf4e1e029e.jpg",
+        "title": "如果罗志祥是个rapper",
+        "bvid": "BV1tz411q7b9",
+        "date": 1589023808000,
+        
+    },
+    {
         "pic": "//i0.hdslb.com/bfs/archive/938abcdd14ed244bf7a51ac39b25a10630e3d635.jpg",
         "title": "一年前的我【小食坛记04】",
         "bvid": "BV1bf4y1S7Jt",
